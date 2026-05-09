@@ -3,5 +3,10 @@ pandas>=2.2
 plotly>=5.20
 openpyxl>=3.1
 qrcode[pil]>=7.4
+pillow
+xhtml2pdf
+reportlab
+supabase
+requests
 
 # PDF publishing uses installed Chrome/Edge headless printing.
