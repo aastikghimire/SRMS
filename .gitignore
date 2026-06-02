@@ -1,0 +1,5 @@
+# Create/edit .gitignore and add these lines:
+secrets.toml
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
